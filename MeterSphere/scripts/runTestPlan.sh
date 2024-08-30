@@ -2,7 +2,7 @@
 ######################################################
 #### This script is to trigger MeterSphere Test Plan #
 ####                                                 #
-#### Author Ziven.shy                                #
+#### Author xyziven                                  #
 #### 2024.8.30                                       #
 ####                                                 #
 #### modified on 2024 Aug 29                         #
