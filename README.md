@@ -1,4 +1,5 @@
-The script metersphere/runTestPlan.sh is compatible with MeterSphere version 2.10.x
+The script metersphere/scripts/runTestPlan.sh is compatible with MeterSphere version 2.10.x
+The script requires jq for running. 
 
 Usage of the script:
  bash runTestPlan.sh accessKey secretKy projectName envName testPlanName HOST_URL resourcePoolName userId
